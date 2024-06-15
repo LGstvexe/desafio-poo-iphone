@@ -1,6 +1,7 @@
 # Desafio POO - Modelagem e Diagramação de um Componente iPhone
 
-Contexto
+**Contexto:**
+
 Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos .java.
 
 **Funcionalidades a Modelar**
